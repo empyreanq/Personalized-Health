@@ -1,0 +1,1 @@
+needed to run:tomcat,xampp,http://localhost/phpmyadmin/index.php
